@@ -7,15 +7,15 @@ A simple full-stack task manager built with **React (frontend)** and **Express +
 ## Backend Setup
 ```bash
 cd backend
-npm install
-npm start   # runs on http://localhost:4000
+pnpm install
+pnpm dev   # runs on http://localhost:4000
 ```
 
 ## Frontend Setup
 ```bash
 cd frontend
-npm install
-npm start   # runs on http://localhost:5173
+pnpm install
+pnpm dev   # runs on http://localhost:5173
 ```
 
 ---
@@ -34,3 +34,4 @@ npm start   # runs on http://localhost:5173
 - Backend: ~1.5 hours
 - Frontend: ~2 hours
 - Styling & testing: ~ half hour.
+
