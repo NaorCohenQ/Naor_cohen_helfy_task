@@ -45,3 +45,6 @@ body {
 .carousel-slide { min-width: 100%; padding: 12px; }
 .carousel-controls { position: absolute; inset: 0; display: flex; justify-content: space-between; align-items: center; pointer-events: none; }
 .carousel-controls button { pointer-events: auto; }
+
+
+.no-anim { transition: none; }
